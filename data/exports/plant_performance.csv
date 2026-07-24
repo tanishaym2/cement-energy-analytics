@@ -1,0 +1,5 @@
+plant,total_material_quantity,material_count,unique_materials,Electricity,Fuels,Raw materials,avg_transport_distance,max_transport_distance,transport_records
+Mangrol,2096.22,11,11,0,0,11,114.17,375.0,10
+Nandyal,3116.73,18,18,8,5,5,304.7,650.0,15
+Nimbahera,2108.83,11,11,0,0,11,103.67,360.0,10
+Nimbol,3795.68,15,15,8,2,5,1298.86,8722.0,12

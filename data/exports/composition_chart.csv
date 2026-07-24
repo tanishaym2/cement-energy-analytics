@@ -1,0 +1,61 @@
+product,material,value
+GGBS,By ship,31.05
+GGBS,By train,207.0
+GGBS,By truck,59.91
+GGBS,Coal,9.04
+GGBS,Components,0.0
+GGBS,Electricity,36.74
+GGBS,Furnace Oil,0.0138
+GGBS,GBS,2140.0
+GGBS,Grinding,41.1
+GGBS,Transportation,0.0
+OPC,By Truck,33.3
+OPC,By ship,366.0
+OPC,By train,17.2
+OPC,By truck,377.20000000000005
+OPC,Cement Mill,97.9
+OPC,Cement mill,31.35
+OPC,Clinker,4589.0
+OPC,Components,0.0
+OPC,Electricity,0.0
+OPC,Grinding,33.5
+OPC,Gypsum,233.4
+OPC,Jarosite,3.6
+OPC,Limestone (crushed),134.4
+OPC,Natural gypsum,32.0
+OPC,Packing,5.98
+OPC,Phosphogypsum,8.0
+OPC,Services,17.86
+OPC,Transportation,0.0
+PPC,Ash,283.9
+PPC,By Truck,115.0
+PPC,By ship,206.97
+PPC,By train,14.0
+PPC,By truck,510.3
+PPC,Cement Mill,74.1
+PPC,Clinker,2632.0
+PPC,Components,0.0
+PPC,Electricity,0.0
+PPC,Fly ash,843.6
+PPC,Grinding clinker,31.5
+PPC,Gypsum,224.3
+PPC,Jarosite,3.5
+PPC,Limestone,9.15
+PPC,Packing,4.550000000000001
+PPC,Services,13.259999999999998
+PPC,Transportation,0.0
+PSC,Blending,1.27
+PSC,Blending (OPC+GGBS),2.13
+PSC,By ship,28.8
+PSC,By truck,117.7
+PSC,Clinker,377.0
+PSC,Components,0.0
+PSC,Electricity,0.0
+PSC,Electricity (Packing and Services),3.0
+PSC,GGBS,1067.0
+PSC,Grinding (clinker +gypsum),30.0
+PSC,Gypsum,26.0
+PSC,OPC,530.0
+PSC,Packing,1.43
+PSC,Services,4.6
+PSC,Transportation,0.0

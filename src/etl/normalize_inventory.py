@@ -5,7 +5,7 @@ Normalize clinker inventory tables into one structured dataset.
 import re
 import pandas as pd
 
-from config import INTERIM_DIR, PROCESSED_DIR
+from src.config import INTERIM_DIR, PROCESSED_DIR
 
 
 CASE_PLANTS = {
