@@ -1,0 +1,4 @@
+- 🏆 Best performing plant: Nandyal
+- ⚠ Highest energy consumer: Nimbahera
+- 🌱 Lowest CO₂ plant: Nandyal
+- 📈 Improvement focus: Nimbahera
