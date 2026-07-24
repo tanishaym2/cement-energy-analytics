@@ -1,0 +1,5 @@
+product,total_materials,unique_materials,total_quantity,Ash,Blending,Blending (OPC+GGBS),By Truck,By ship,By train,By truck,Cement Mill,Cement mill,Clinker,Coal,Components,Electricity,Electricity (Packing and Services),Fly ash,Furnace Oil,GBS,GGBS,Grinding,Grinding (clinker +gypsum),Grinding clinker,Gypsum,Jarosite,Limestone,Limestone (crushed),Natural gypsum,OPC,Packing,Phosphogypsum,Services,Transportation
+GGBS,14,10,2524.85,0.0,0.0,0.0,0.0,31.05,207.0,59.91,0.0,0.0,0.0,9.04,0.0,36.74,0.0,0.0,0.01,2140.0,0.0,41.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+OPC,52,18,5980.69,0.0,0.0,0.0,33.3,366.0,17.2,377.2,97.9,31.35,4589.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.5,0.0,0.0,233.4,3.6,0.0,134.4,32.0,0.0,5.98,8.0,17.86,0.0
+PPC,43,17,4966.13,283.9,0.0,0.0,115.0,206.97,14.0,510.3,74.1,0.0,2632.0,0.0,0.0,0.0,0.0,843.6,0.0,0.0,0.0,0.0,0.0,31.5,224.3,3.5,9.15,0.0,0.0,0.0,4.55,0.0,13.26,0.0
+PSC,17,15,2188.93,0.0,1.27,2.13,0.0,28.8,0.0,117.7,0.0,0.0,377.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1067.0,0.0,30.0,0.0,26.0,0.0,0.0,0.0,0.0,530.0,1.43,0.0,4.6,0.0
