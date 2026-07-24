@@ -1,0 +1,5 @@
+plant,avg_distance,max_distance,min_distance,transport_records,Train,Truck,Truck + Train,Unknown
+Mangrol,114.17,375.0,15.0,10,0,6,0,4
+Nandyal,304.7,650.0,0.0,15,0,7,3,5
+Nimbahera,103.67,360.0,12.0,10,0,6,0,4
+Nimbol,1298.86,8722.0,10.0,12,2,5,0,5
