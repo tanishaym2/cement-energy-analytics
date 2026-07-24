@@ -1,0 +1,48 @@
+plant,case_study,material,source,distance_km,mode,raw_transport
+Nandyal,1,Limestone,7 km,7.0,Truck,"7 km (from the quarry, by truck)"
+Nandyal,1,Flue dust,Bellary,225.0,Truck + Train,Bellary (225 km; 195 km by train and 30 km by truck)
+Nandyal,1,Red mud,Belgavi,540.0,Truck,"Belgavi (540 km, by truck)"
+Nandyal,1,Laterite,Rajahmundry,500.0,Truck + Train,Rajahmundry (500 km; 484 km by train and 30 km by truck)
+Nandyal,1,Crushed slag,Bellary,225.0,Truck + Train,Bellary (225 km; 195 km by train and 30 km by truck)
+Nandyal,1,Coal (USA) – country of origin given as USA by plant,"Assumed to be from New Orleans, USA",650.0,Truck + Ship,"Assumed to be from New Orleans, USA (21,650 km by ship to Mangaluru; from Mangaluru, 630 kms, by truck)"
+Nandyal,1,Pet Coke – country of origin given as South Africa by plant,"Assumed to be from Cape Town, South Africa",0.0,Truck + Ship,"Assumed to be from Cape Town, South Africa (10,000 km, by ship to Mangaluru; from Mangaluru, 630 km, by truck)"
+Nandyal,1,Pharmaceutical solid waste,Hyderabad,300.0,Truck,"Hyderabad (300 km, by truck)"
+Nandyal,1,Carbon black,Hyderabad,300.0,Truck,"Hyderabad (300 km, by truck)"
+Nandyal,1,Pharmaceutical liquid waste,Hyderabad,300.0,Truck,"Hyderabad (300 km, by truck)"
+Nandyal,1,Electricity,Source,,,Source
+Nandyal,1,For limestone crushing,Grid,,,Grid
+Nandyal,1,By truck,-,,,-
+Nandyal,1,By rail,-,,,-
+Nandyal,1,By ship,-,,,-
+Nimbahera,2,Limestone,12 km,12.0,Truck,"12 km (from the quarry), by truck"
+Nimbahera,2,Marble khanda,"100 km, by truck",100.0,Truck,"100 km, by truck"
+Nimbahera,2,Laterite,"65 km, by truck",65.0,Truck,"65 km, by truck"
+Nimbahera,2,Bauxite,"50 km, by truck",50.0,Truck,"50 km, by truck"
+Nimbahera,2,Iron sludge,"360 km, by truck",360.0,Truck,"360 km, by truck"
+Nimbahera,2,Zinc slag,"35 km, by truck",35.0,Truck,"35 km, by truck"
+Nimbahera,2,Electricity used in the plant,Source,,,Source
+Nimbahera,2,Up to (and including) clinkerization,CPP,,,CPP
+Nimbahera,2,By truck,-,,,-
+Nimbahera,2,By ship,-,,,-
+Mangrol,3,Limestone,15 km,15.0,Truck,"15 km (from the quarry), by truck"
+Mangrol,3,Marble Khanda,"115 km, by truck",115.0,Truck,"115 km, by truck"
+Mangrol,3,Laterite,"65 km,by truck",65.0,Truck,"65 km,by truck"
+Mangrol,3,Bauxite,"65 km, by truck",65.0,Truck,"65 km, by truck"
+Mangrol,3,Iron Ssludge,"375 km, by truck",375.0,Truck,"375 km, by truck"
+Mangrol,3,Zinc Slag,"50 km, by truck",50.0,Truck,"50 km, by truck"
+Mangrol,3,Electricity used,Source,,,Source
+Mangrol,3,Upto clinkerization,CPP,,,CPP
+Mangrol,3,By truck,-,,,-
+Mangrol,3,By ship,-,,,-
+Nimbol,4,Limestone,"Quarry,10 km, by truck",10.0,Truck,"Quarry,10 km, by truck"
+Nimbol,4,China Clay,"Plant area, 10 km, by truck",10.0,Truck,"Plant area, 10 km, by truck"
+Nimbol,4,Red Ochre,"Chittor, Bhilwara, 180 km by truck",180.0,Truck,"Chittor, Bhilwara, 180 km by truck"
+Nimbol,4,Low Ggrade China Clay,"Plant area, 10 km, by truck",10.0,Truck,"Plant area, 10 km, by truck"
+Nimbol,4,Zinc Slag,"Plant area, 10 km, by truck",10.0,Truck,"Plant area, 10 km, by truck"
+Nimbol,4,Coal (S.A),SA,8722.0,Train + Ship,"SA (assumed to be from East Ondon) (8722 km) by ship to Kandla, Gujarat; from Kandla to plant by train (650 km)"
+Nimbol,4,Pet Coke (U.S),USA,150.0,Train + Ship,"USA (assumed to be from New Orleans) (22,150 km) by ship to Kandla, Gujarat; from Kandla to plant by train (650 km)"
+Nimbol,4,Electricity,Source,,,Source
+Nimbol,4,For limestone crushing,CPP,,,CPP
+Nimbol,4,By truck,"Limestone, china clay and red ochre",,,"Limestone, china clay and red ochre"
+Nimbol,4,By rail,Coal and pet coke,,,Coal and pet coke
+Nimbol,4,By ship,Coal and pet coke,,,Coal and pet coke

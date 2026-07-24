@@ -1,0 +1,127 @@
+table,product,material,value,unit
+A2,OPC,Components,,
+A2,OPC,Clinker,960.0,kg
+A2,OPC,Natural gypsum,32.0,kg 
+A2,OPC,Phosphogypsum,8.0,kg
+A2,OPC,Electricity,,
+A2,OPC,Cement Mill,32.5,kWh
+A2,OPC,Packing,1.43,kWh
+A2,OPC,Services,4.6,kWh
+A2,OPC,Transportation,,
+A2,OPC,By ship,153.0,t-km
+A2,OPC,By truck,12.0,t-km
+A3,GGBS,Components,,
+A3,GGBS,GBS,1070.0,kg
+A3,GGBS,Electricity,,
+A3,GGBS,Grinding,41.1,kWh
+A3,GGBS,Transportation,,
+A3,GGBS,By train,207.0,t-km
+A3,GGBS,By truck,32.1,t-km
+A4,PSC,Components,,
+A4,PSC,OPC,530.0,kg
+A4,PSC,GGBS,470.0,kg 
+A4,PSC,Electricity,,
+A4,PSC,Blending,1.27,kWh
+A4,PSC,Packing,1.43,kWh
+A4,PSC,Services,4.6,kWh
+A8,OPC,Components,,
+A8,OPC,Clinker,877.0,kg
+A8,OPC,Gypsum,73.0,kg 
+A8,OPC,Limestone (crushed),48.0,
+A8,OPC,Jarosite,2.0,
+A8,OPC,Electricity,,
+A8,OPC,Cement Mill,36.0,kWh
+A8,OPC,Packing,1.62,kWh
+A8,OPC,Services,2.28,kWh
+A8,OPC,Transportation,,
+A8,OPC,By Truck,33.3,t-km
+A9,PPC,Components,,
+A9,PPC,Clinker,652.0,kg
+A9,PPC,Gypsum,74.0,kg 
+A9,PPC,Fly ash,270.0,kg
+A9,PPC,Jarosite,0.4,
+A9,PPC,Electricity,,
+A9,PPC,Cement Mill,26.7,kWh
+A9,PPC,Packing,1.62,kWh
+A9,PPC,Services,2.28,kWh
+A9,PPC,Transportation,,
+A9,PPC,By Truck,115.0,tonne-km
+A13,OPC,Components,,
+A13,OPC,Clinker,890.0,kg
+A13,OPC,Gypsum,64.2,kg 
+A13,OPC,Limestone (crushed),44.2,
+A13,OPC,Jarosite,1.6,
+A13,OPC,Electricity,,
+A13,OPC,Cement Mill,29.4,kWh
+A13,OPC,Packing,1.62,kWh
+A13,OPC,Services,2.28,kWh
+A13,OPC,Transportation,,
+A13,OPC,By truck,33.3,t-km
+A14,PPC,Components,,
+A14,PPC,Clinker,650.0,kg
+A14,PPC,Gypsum,63.0,kg 
+A14,PPC,Ash,283.9,
+A14,PPC,Jarosite,3.1,
+A14,PPC,Electricity,,
+A14,PPC,Cement Mill,21.4,kWh
+A14,PPC,Packing,1.62,kWh
+A14,PPC,Services,2.28,kWh
+A14,PPC,Transportation,,
+A14,PPC,By truck,96.7,t-km
+A17,OPC,Components,,
+A17,OPC,Clinker,912.0,kg
+A17,OPC,Gypsum,46.2,kg 
+A17,OPC,Limestone (crushed),42.2,
+A17,OPC,Electricity,,
+A17,OPC,Cement mill,31.35,kWh
+A17,OPC,Packing,1.31,kWh
+A17,OPC,Services,8.7,kWh
+A17,OPC,Transportation,,
+A17,OPC,By ship,34.0,
+A17,OPC,By train,17.2,
+A17,OPC,By truck,9.3,
+A18,PPC,Components,,
+A18,PPC,Clinker,680.0,kg
+A18,PPC,Gypsum,37.3,kg 
+A18,PPC,Limestone,9.15,kg
+A18,PPC,Fly ash,273.6,
+A18,PPC,Electricity,,
+A18,PPC,Cement Mill,26.0,kWh
+A18,PPC,Packing,1.31,kWh
+A18,PPC,Services,8.7,kWh
+A18,PPC,Transportation,,
+A18,PPC,By ship,27.73,
+A18,PPC,By train,14.0,
+A18,PPC,By truck,130.0,
+A20,OPC,Clinker,950.0,kg
+A20,OPC,Gypsum,50.0,
+A20,OPC,Electricity,,
+A20,OPC,Grinding,33.5,kWh
+A20,OPC,Transportation,,
+A20,OPC,By truck,322.6,t-km
+A20,OPC,By ship,179.0,t-km
+A21,PPC,Clinker,650.0,kg
+A21,PPC,Gypsum,50.0,
+A21,PPC,Fly ash,300.0,
+A21,PPC,Electricity,,
+A21,PPC,Grinding clinker,31.5,kWh
+A21,PPC,Transportation,,
+A21,PPC,By truck,283.6,t-km
+A21,PPC,By ship,179.24,t-km
+A24,GGBS,GBS,1070.0,kg
+A24,GGBS,Coal,9.04,kg
+A24,GGBS,Furnace Oil,0.0138,
+A24,GGBS,Electricity,36.74,kWh
+A24,GGBS,Transportation,,
+A24,GGBS,By truck,27.81,t-km
+A24,GGBS,By ship,31.05,t-km
+A25,PSC,Clinker,377.0,kg
+A25,PSC,GGBS,597.0,kg
+A25,PSC,Gypsum,26.0,kg
+A25,PSC,Electricity,,
+A25,PSC,Grinding (clinker +gypsum),30.0,kWh
+A25,PSC,Blending (OPC+GGBS),2.13,kWh
+A25,PSC,Electricity (Packing and Services),3.0,kWh
+A25,PSC,Transportation,,
+A25,PSC,By truck,117.7,t-km
+A25,PSC,By ship,28.8,t-km

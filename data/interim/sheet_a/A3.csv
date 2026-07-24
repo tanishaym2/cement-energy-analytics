@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+,Table A3: Input data related to the production of 1 tonne of GGBS,,,,
+,Components,Amount (per tonne),Source and distance,,
+,GBS,1070 kg,Toranagallu steel plant (225 km),,
+,Electricity ,,,,
+,Grinding,41.1 kWh,Grid,,
+,Transportation ,,,,
+,By train,207 t-km,GBS,,
+,By truck ,32.1 t-km,GBS,,
+,,,,,

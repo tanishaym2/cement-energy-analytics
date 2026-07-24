@@ -1,0 +1,98 @@
+table,category,item,factor,unit
+A5,,Material,Characterization factors for CO2 (kg CO2/kg),Characterization factors for energy consumed (MJ/kg)
+A5,Raw materials,Limestone,0.520$,
+A5,Raw materials,Flue dust,0,0
+A5,Raw materials,Red mud,0,0
+A5,Raw materials,Laterite,0,0
+A5,Raw materials,Crushed slag,0,0
+A5,Fuels,Coal (US),2.8,30.14 (Calorific content)
+A5,Fuels,Pet Coke,2.64,34.33 (Calorific content)
+A5,Fuels,Pharmaceutical solid waste,2.89,12.56 (Calorific content)
+A5,Fuels,Carbon black,3.06,25.12 (Calorific content)
+A5,Fuels,Pharmaceutical liquid waste,2.89,12.56 (Calorific content)
+A5,Fuels,Electricity (per kWh),1.38**,19.5**
+A5,Transportation,By truck (per t-km),0.0924**,1.690**
+A5,Transportation,By train (per t-km),0.0467**,0.777**
+A5,Transportation,By ship (per t-km),0.0192**,0.0113**
+A5,Transportation,$Based on the CaO and MgO content of the clinker; ** Ground-to-gate; *Gate-to-gate; #CHNS analysis and bomb calorimetry conducted by cement plant,,
+A5,Transportation,Case Study 2: Nimbahera (NB),,
+A10,,Materials,kg CO2/kg,MJ/kg
+A10,Raw materials,Limestone,2.19,33.3
+A10,Raw materials,Marble Khanda,0,0
+A10,Raw materials,Laterite,0,0
+A10,Raw materials,Bauxite,0,0
+A10,Raw materials,Iron sludge,0,0
+A10,Raw materials,Zinc slag,0,0
+A10,Raw materials,Jarosite,0,0
+A10,Fuels,S. A. Coal,2.2) #,22.83 (Calorific content) #
+A10,Fuels,Pet Coke,3#,33.75 (Calorific content) #
+A10,Fuels,Imported Pet Coke,3#,33.72
+A10,Fuels,Indian Coal,1.73#,25.50#
+A10,Fuels,Lignite Coal,1.863#,18.89 (Calorific content) #
+A10,Fuels,U.S. coal,2.719#,29.11
+A10,Fuels,Pet Coke Sweeps,3.00#,33.712
+A10,Fuels,Waste Mix Solid,1.18,9.803
+A10,Fuels,Agro Waste,1.08,10.639
+A10,Fuels,RDF and RDF - II,2.01,17.715
+A10,Fuels,Plastic Waste,2.011,17.715
+A10,Transportation,By truck,0.0920**,1. 690**
+A10,Transportation,By ship,0.0192**,0.0113**
+A10,Transportation,$Based on the CaO and MgO content of the clinker; ** Ground-to-gate only; *Gate-to-gate only; #CHNS analysis and Bomb calorimetry conducted by cement plant,,
+A10,Transportation,Case Study 3: Mangrol (MG),,
+A15,,Material,kg CO2/kg ,MJ/kg
+A15,Raw materials,Limestone,2.19,33.3
+A15,Raw materials,Marble khanda,0,0
+A15,Raw materials,Laterite,0,0
+A15,Raw materials,Bauxite,0,0
+A15,Raw materials,Iron sludge,0,0
+A15,Raw materials,Zinc slag,0,0
+A15,Raw materials,Jarosite,0,0
+A15,Fuels,S. A. Coal,2.29#,22.65 (Calorific content)#
+A15,Fuels,Pet Coke,3.0#,33.99 (Calorific content) #
+A15,Fuels,Imported Pet Coke,3.0#,33.99 (Calorific content) #
+A15,Fuels,Indian Coal,1.73#,25.50 (Calorific content) #
+A15,Fuels,Lignite Coal,1.863#,20.715 (Calorific content) #
+A15,Fuels,Pet Coke with High Sulphur,3#,33.99 (Calorific content) #
+A15,Fuels,Pet Coke Sweeps,3#,33.99 (Calorific content) #
+A15,Fuels,Waste Mix Solid,1.89#,9.803 (Calorific content)#
+A15,Fuels,Agro Waste,1.08#,10.639 (Calorific content)#
+A15,Fuels,RDF and RDF-II,2.01#,17.715 (Calorific content)#
+A15,Fuels,Plastic and Resin Waste,0.923#,10.56 (Calorific content)#
+A15,Fuels,Contaminated Plastic Waste,1.21#,16.96 (Calorific content)#
+A15,Fuels,Plastic Waste,2.011#,17.715 (Calorific content)#
+A15,Fuels,Tyre Fibre Mass,2.651#,25.88 (Calorific content)#
+A15,Fuels,Shreds Tyre Chips,2.651#,25.88 (Calorific content)#
+A15,Fuels,Electricity (per kWh),1.82**,18.56**
+A15,Transportation,By truck,0.0920**,1.690**
+A15,Transportation,By rail,0.0467**,0.777**
+A15,Transportation,By ship,0.0192**,0.0113**
+A15,Transportation,$Based on the CaO and MgO content of the clinker; ** Ground-to-gate; *Gate-to-gate; #CHNS analysis and Bomb calorimetry conducted by cement plant.,,
+A15,Transportation,Case study 4: Nimbol (NM),,
+A19,,Material,kg CO2 /kg ,MJ/kg
+A19,Raw materials,Limestone,2.19,33.3
+A19,Raw materials,China Clay,2.94,49.1
+A19,Raw materials,Red Ochre,0,0
+A19,Raw materials,Low Grade China Clay,0,0
+A19,Raw materials,Zinc Sslag,0,0
+A19,Fuels,Coal (S.A),2.29#,36.24#
+A19,Fuels,Pet Coke,3.00#,34.81#
+A19,Transportation,By truck,0.0920**,1.690**
+A19,Transportation,By rail,0.0467**,0.777**
+A19,Transportation,By ship,0.0192**,0.0113**
+A19,Transportation,$Calculated based on MgO and CaO content of the clinker; **Ground-to-gate; *Gate-to-gate; #CHNS analysis and bomb calorimetry done by cement plant,,
+A19,Transportation,Case Study 5: Arakkonam (AR),,
+A22,,Heavy Furnace oil (0.93 lt/kg),kg CO2/kg,MJ/kg
+A22,,*EPA; **Assumed to be the same as that used in Ariyalur cement plant,,
+A23,,Material,kg CO2 /kg,MJ/kg
+A23,Raw materials,Clinker,0,
+A23,Raw materials,Fly ash,0,
+A23,Electricity,Case Study 6: Toranagallu (TR),,
+A26,,Material,kg CO2 /kg,MJ/kg
+A26,Raw materials,GBS,0,0
+A26,Raw materials,Clinker,0.930**,5.260**
+A26,Raw materials,GGBS,0.0815**,1.08**
+A26,Fuels,Coal (S.A),2.57,26.8 (calorific values)
+A26,Fuels,Furnace oil,2.86,40.2 (calorific values)
+A26,Transportation,By truck,0.0385**,0.5195**
+A26,Transportation,By ship,0.0192**,0.0113**
+A26,Transportation,**Ground-to-gate; *Gate-to-gate,,

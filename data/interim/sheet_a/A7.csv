@@ -1,0 +1,25 @@
+0,1,2,3,4,5
+,Table A7: Fuels used in the production of clinker.,,,,
+,Fuel,Amount,Transportation,,
+,,(kg/ tonne of clinker),Means ,Source,Distance 
+,Pet Coke,76.2,Road,"Jamnagar,",to cement plant (690 km)
+,,,,"Gujarat, IN",
+,Imported Pet Coke,13.8,Ship,US (Port of Miami),to Kandla 18100 km (9774 nautical miles)
+,,,Road,"Kandla, Gujarat",To cement plant (610 km)
+,Pet coke Sweeps,0.1,Road,"Jamnagar,",690 km
+,,,,Gujarat,
+,SA Coal,14,Ship,South Africa (Port of East Ondon) ,to Kandla 7260 km (3920 nautical miles)
+,,,Road,"Kandla, Gujarat",To cement plant (610 km)
+,US Coal ,1.7,Ship ,US (Port of Miami),"To Kandla, 18100 kms (9774 nautical miles)"
+,,,Road,"Kandla, Gujarat ",To cement plant (610 km)
+,Indian Coal,1.3,Road,"SECL mines, Chhattisgarh",1150 km (on average)
+,Lignite Coal,2.3,Road,"Nagaur, Rajasthan, IN",390 km
+,Indian Coal (IBT),2.9,Road,"SECL mines, Chhattisgarh",1150 km (on average)
+,Agro waste,1.8,Road,Local,10 km
+,Plastic waste,0.049,Road,"Ahmedabad, Gujarat, IN",360 km
+,RDF,2.9,Road,Local,10 km
+,RDF-II,0.1,Road,Local,10 km
+,Waste Mix Liquid,0.9,Road,"Ahmedabad, Gujarat, IN",360 km
+,Waste Mix Liquid (LCV),2.8,Road,"Ahmedabad, Gujarat, IN",360 km
+,Waste Mix Solid,0.1,Road,"Ahmedabad, Gujarat, IN",360 km
+,,,,,

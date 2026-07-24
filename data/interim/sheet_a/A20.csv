@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+,Table A20: Input data used for (1 tonne) OPC production in Case study 5,,,,
+,Material,Amount,Source of materials (distance from plant and mode of transportation),,
+,Clinker,950 kg,From Tadapatri Cement plant in train (300 km),,
+,Gypsum,50,"40 kg from Oman to Chennai, by ship (4481 km); from Chennai port to Arakkonam by truck (80 km)",,
+,,,"10 kg from Thoothukudi, Tamil Nadu, by truck (590 km)",,
+,Electricity ,,,,
+,Grinding,33.5 kWh,Data from cement plant,,
+,Transportation ,,,,
+,By truck ,322.6 t-km,Transportation of clinker and gypsum ,,
+,By ship ,179 t-km,Transportation of gypsum ,,
+,,,,,

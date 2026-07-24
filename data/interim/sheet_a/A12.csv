@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+,Table A12: Fuels used in the production of clinker (Case study 3),,,,
+,Fuel,Amount,Transportation,,
+,,(kg/tonne of clinker),Mode,Source,Distance 
+,Pet Coke,52.88,Road,"Jamnagar, Gujarat (690 km)",
+,Pet Coke (High Sulphur),7.82,Road,,
+,Pet Coke Sweeps,1.85,Road,,
+,"Imported Pet Coke (source indicated as Miami, USA, by the plant)",18.96,Ship,"Miami, USA","to Kandla, 18100 km (9774 nautical miles)"
+,,,Road,"Kandla, Gujarat",to plant Mangrol (610 km)
+,"S.A. Coal (source indicated as East Ondon, by the plant)",9,Ship,"East Ondon, South Africa ",to Kandla 7260 km (3920 nautical miles)
+,,,Road,"Kandla, Gujarat",to plant 610 km
+,Indian Coal,3.44,Road,"SECL mines, Chhattisgarh",1150 km (on average)
+,Lignite Coal,3.03,Road,"Nagaur, Rajasthan",390 km
+,Agro Waste,2.45,Road,Local,10 km
+,Aliphatic/Naphthenic Solvents,0.01,Road,"Dahej, Gujarat",500 km
+,Aqueous Waste/Toxic Effluent,0.01,Road,"Dahej, Gujarat",500 km
+,Contaminated Plastic Waste,0.29,Road,"Ahmedabad, Gujarat, or Moga, Punjab",600 km (average)
+,Distillation Residue,0.01,Road,"Ahmedabad, Gujarat, or Moga, Punjab",600 km (average)
+,FMCG Waste,0.04,Road,"Ahmedabad, Gujarat, or Moga, Punjab",600 km (average)
+,Hazardous FRP Waste,0.03,Road,"Ahmedabad, Gujarat",360 km
+,MSW (Municipal Solid Waste),0.01,Road,Local,10 km
+,Off Specification Products,0.01,Road,Plant,0
+,Plastic & Resin Waste,0.37,Road,"Ahmedabad, Gujarat",360 km
+,Plastic Waste ,0.32,Road,"Ahmedabad, Gujarat",360 km
+,Refuse Derived Fuels - RDF,0.69,Road,Local,10 km
+,RDF-II,0.16,Road,Local,10 km
+,Shredded Tyre Chips,0.04,Road,"Ahmedabad, Gujarat",360 km
+,Tyre Fibre Mass (Tyre Chips),0.15,Road,"Ahmedabad, Gujarat",360 km
+,Waste Mix Liquid,1.12,Road,"Ahmedabad, Gujarat",360 km
+,Waste Mix Liquid (Low Calorific Value - LCV),7.15,Road,"Ahmedabad, Gujarat",360 km
+,Waste Mix Solid,6.49,Road,"Ahmedabad, Gujarat",360 km
+,,,,,

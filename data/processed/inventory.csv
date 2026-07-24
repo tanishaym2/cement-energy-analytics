@@ -1,0 +1,56 @@
+plant,case_study,category,material,value,unit,transport
+Nandyal,1,Raw materials,Limestone,1420.0,kg,"7 km (from the quarry, by truck)"
+Nandyal,1,Raw materials,Flue dust,31.0,kg,Bellary (225 km; 195 km by train and 30 km by truck)
+Nandyal,1,Raw materials,Red mud,25.0,kg,"Belgavi (540 km, by truck)"
+Nandyal,1,Raw materials,Laterite,46.0,kg,Rajahmundry (500 km; 484 km by train and 30 km by truck)
+Nandyal,1,Raw materials,Crushed slag,23.0,kg,Bellary (225 km; 195 km by train and 30 km by truck)
+Nandyal,1,Fuels,Coal (USA) – country of origin given as USA by plant,32.0,kg,"Assumed to be from New Orleans, USA (21,650 km by ship to Mangaluru; from Mangaluru, 630 kms, by truck)"
+Nandyal,1,Fuels,Pet Coke – country of origin given as South Africa by plant,60.0,kg,"Assumed to be from Cape Town, South Africa (10,000 km, by ship to Mangaluru; from Mangaluru, 630 km, by truck)"
+Nandyal,1,Fuels,Pharmaceutical solid waste,3.0,kg,"Hyderabad (300 km, by truck)"
+Nandyal,1,Fuels,Carbon black,3.0,kg,"Hyderabad (300 km, by truck)"
+Nandyal,1,Fuels,Pharmaceutical liquid waste,2.0,kg,"Hyderabad (300 km, by truck) "
+Nandyal,1,Electricity,For limestone crushing,1.77,kWh,Grid
+Nandyal,1,Electricity,For the preparation of the raw meal,21.3,kWh,
+Nandyal,1,Electricity,For the milling of coal,3.57,kWh,
+Nandyal,1,Electricity,For kiln operation during clinkerization,25.59,kWh,
+Nandyal,1,Electricity,Transportation mode,,,
+Nandyal,1,Electricity,By truck,86.8,,-
+Nandyal,1,Electricity,By rail,32.7,,-
+Nandyal,1,Electricity,By ship,1300.0,,-
+Nimbahera,2,Raw materials,Limestone,1387.0,kg,"12 km (from the quarry), by truck"
+Nimbahera,2,Raw materials,Marble khanda,29.8,kg,"100 km, by truck"
+Nimbahera,2,Raw materials,Laterite,57.0,kg,"65 km, by truck"
+Nimbahera,2,Raw materials,Bauxite,81.5,kg,"50 km, by truck"
+Nimbahera,2,Raw materials,Iron sludge,6.57,kg,"360 km, by truck"
+Nimbahera,2,Raw materials,Zinc slag,1.24,kg,"35 km, by truck"
+Nimbahera,2,Raw materials,Electricity used in the plant,,,Source 
+Nimbahera,2,Raw materials,Up to (and including) clinkerization,56.72,kWh,CPP
+Nimbahera,2,Raw materials,Transportation mode,,,
+Nimbahera,2,Raw materials,By truck,107.0,,-
+Nimbahera,2,Raw materials,By ship,382.0,,-
+Mangrol,3,Raw materials,Limestone,1357.0,kg,"15 km (from the quarry), by truck"
+Mangrol,3,Raw materials,Marble Khanda,30.0,kg,"115 km, by truck"
+Mangrol,3,Raw materials,Laterite,57.0,kg,"65 km,by truck"
+Mangrol,3,Raw materials,Bauxite,81.0,kg,"65 km, by truck"
+Mangrol,3,Raw materials,Iron Ssludge,6.57,kg,"375 km, by truck"
+Mangrol,3,Raw materials,Zinc Slag,1.25,kg,"50 km, by truck"
+Mangrol,3,Raw materials,Electricity used,,,Source 
+Mangrol,3,Raw materials,Upto clinkerization,47.4,kWh,CPP
+Mangrol,3,Raw materials,Transportation mode,,,
+Mangrol,3,Raw materials,By truck,107.0,,-
+Mangrol,3,Raw materials,By ship,409.0,,-
+Nimbol,4,Raw materials,Limestone,1304.0,kg,"Quarry,10 km, by truck"
+Nimbol,4,Raw materials,China Clay,115.0,kg,"Plant area, 10 km, by truck"
+Nimbol,4,Raw materials,Red Ochre,125.0,kg,"Chittor, Bhilwara, 180 km by truck "
+Nimbol,4,Raw materials,Low Ggrade China Clay,5.0,kg,"Plant area, 10 km, by truck"
+Nimbol,4,Raw materials,Zinc Slag,1.0,kg,"Plant area, 10 km, by truck"
+Nimbol,4,Fuels,Coal (S.A),2.79,kg,"SA (assumed to be from East Ondon) (8722 km) by ship to Kandla, Gujarat; from Kandla to plant by train (650 km)"
+Nimbol,4,Fuels,Pet Coke (U.S),89.0,kg,"USA (assumed to be from New Orleans) (22,150 km) by ship to Kandla, Gujarat; from Kandla to plant by train (650 km)"
+Nimbol,4,Electricity,For limestone crushing,1.55,kWh,CPP
+Nimbol,4,Electricity,For the preparation of the raw meal,23.4,kWh,
+Nimbol,4,Electricity,For the milling of coal,3.88,kWh,
+Nimbol,4,Electricity,For kiln operation during clinkerization,22.46,kWh,
+Nimbol,4,Electricity,Transportation mode,,,
+Nimbol,4,Electricity,By truck,36.7,,"Limestone, china clay and red ochre"
+Nimbol,4,Electricity,By rail,68.9,,Coal and pet coke
+Nimbol,4,Electricity,By ship,1997.0,,Coal and pet coke

@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+,Table A24: Inventory for 1 tonne of GGBS production (Case study 6),,,,
+,Material,Amount,Source of materials (distance from plant and mode of transportation),,
+,GBS,1070 kg,"Iron and Steel plant, Toranagallu, Bellary, by truck (15km)",,
+,Coal ,9.04 kg,"From SECL mines, Chhattisgarh, by truck (1300 km)",,
+,Furnace Oil,0.0138,From Oman to Mumbai port by ship (2250 km);,,
+,,,"Mumbai to Bellary, by truck (700 km)",,
+,Electricity ,36.74 kWh,"From the grid, for grinding of GBS",,
+,Transportation ,,,,
+,By truck ,27.81 t-km,"GBS, Furnace oil and Coal",,
+,By ship ,31.05 t-km,Furnace oil ,,
+,,,,,

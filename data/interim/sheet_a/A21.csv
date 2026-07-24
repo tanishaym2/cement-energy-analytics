@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+,Table A21: Input data used for (1 tonne) PPC production in Case Study 5,,,,
+,Material,Amount,Source of materials (distance from plant and mode of transportation),,
+,Clinker,650 kg,"From Tadapatri, by train (300 km)",,
+,Gypsum,50,"40 kg from Oman to Chennai, by ship (4481 km); from Chennai port to Arakkonam by truck (80 kms)",,
+,,,"10 kg from Thoothukudi, Tamil Nadu, by truck(590 km)",,
+,Fly ash,300,"From Nellore district, Andhra Pradesh by truck (200 km)",,
+,Electricity ,,,,
+,Grinding clinker ,31.5 kWh,Data from plant,,
+,Transportation ,,,,
+,By truck ,283.6 t-km,"Transportation of clinker, fly ash and gypsum",,
+,By ship ,179.24 t-km,Transportation of gypsum,,
+,,,,,
