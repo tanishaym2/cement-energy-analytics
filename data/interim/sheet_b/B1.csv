@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6
+,Table B1: Data and Impacts related to Mettur Thermal Power Plant,,,,,
+,Mettur Power Plant (TPP): 2018-19 – Data from the plant,,,,,
+,Total power ,,, 4 × 210 units,,
+,Energy generated per day (units),,,20160000,kWh,
+,Coal used ,,,14500,TPD ,
+,Fuel used ,Fuel usage/day,,Fuel split,,
+,,,,Fraction,%,kg/kWh
+,Indian Coal ,11600,tonnes,0.8,80,0.575
+,Indonesian Coal ,2900,,0.2,20,0.144
+,Total fuel ,14500,,,Total fuel,0.72
+,Direct Emissions and Energy (per kWh),,,,,
+,Fuel used ,Fuels (kg/kWh),kgCO2/kg,MJ/kg,kgCO2/kWh,MJ/kWh
+,Indian coal# ,0.575,1.39*,11.72,0.8,6.74
+,Indonesian coal ,0.144,1.59*,25.1,0.23,3.61
+,#Ash content 42-48% ,,,Total ,1.03,10.35
+,Extraction of fuels (per kWh),,,,,
+,Fuel used ,Fuel consumption (kg/kWh),kgCO2/kg,MJ/kg,kgCO2/kWh,MJ/kWh
+,Indian Coal ,0.575,0.55$,8.58$,0.32,4.94
+,Indonesian Coal ,0.144,0.55$,8.58$,0.08,1.23
+,,,,Total ,0.4,6.17
+,Transportation of fuels (per kWh),,,,,
+,Fuel used ,t-km,kgCO2/t-km,MJ/t-km,kgCO2/kWh,MJ/kWh
+,"Indian coal (from Mahanadi Coal Fields, Odissa, to Bhubaneswar by train, 150 km)",0.086,0.0047$,0.777$,0.0004,0.0671
+,"Indian coal (from Paradip port, Odisha, to Chennai port, 775 Nautical miles, 1500 km)",0.863,0.0192$,0.011$,0.0166,0.0098
+,"Indian coal (Chennai port to plant by train, 350 km)",0.201,0.0047$,0.777$,0.0009,0.1565
+,"Indonesian Coal (Ambon, Indonesia to Chennai port by ship, 3213 Nautical miles, 6000 km)",0.863,0.0192$,0.011$,0.0166,0.0098
+,"Indonesian Coal (Port to plant by train, 350 km)",0.05,0.0047$,0.777$,0.0002,0.0391
+,,,,Total ,0.035,0.282
+,Sea route distance source:      ,,,Ground-to gate- ,1.46,16.81
+,https://sea-distances.org/ ,,,Gate-to- gate ,1.03,10.35
+,"*Data of fuels from CHNS and bomb calorimetry done by Mysore paper mills, Bhadravathi, Shivmogga, India, where similar fuel was used for electricity production.",,,,,
+,,,,,,
+,,Data from Thermal power plant ,,,,
+,*,Data from Mysore Paper Mills,,,,
+,$,ecoinvent,,,,
+,,Calculated,,,,
+,,,,,,
+,,,,,,
+,,,,,,

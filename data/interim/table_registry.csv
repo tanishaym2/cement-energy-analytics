@@ -1,56 +1,56 @@
-sheet,table_id,case_study,start_row,title
-A,A1,1.0,4,Table A1: Input data compiled for clinker in Case Study 1
-A,A2,1.0,29,Table A2: Input data related to the production of 1 tonne of OPC
-A,A3,1.0,43,Table A3: Input data related to the production of 1 tonne of GGBS
-A,A4,1.0,52,Table A4: Input data related to the production of 1 tonne of PSC
-A,A5,1.0,61,Table A5: Characterization factors for clinker production (Case study 1)
-A,A6,2.0,94,Table A6: Input data used for LCA of clinker (Case study 2)
-A,A7,2.0,110,Table A7: Fuels used in the production of clinker.
-A,A8,2.0,134,Table A8: Input data for production of OPC (Case study 2)
-A,A9,2.0,149,Table A9: Input data for production of PPC (Case study 2)
-A,A10,2.0,164,Table A10: Characterization factors used in the Case study 2
-A,A11,3.0,213,Table A11: Input data compiled for LCA of clinker (Case study 3)
-A,A12,3.0,229,Table A12: Fuels used in the production of clinker (Case study 3)
-A,A13,3.0,260,Table A13: Input data for production of OPC 53 grade (Case study 3)
-A,A14,3.0,275,Table A14: Input data for production of PPC (Case study 3)
-A,A15,3.0,293,Table A15: Characterization factors used in Case study 3
-A,A16,4.0,344,Table A16: Input data used for LCA of clinker (Case study 4)
-A,A17,4.0,366,Table A17: Input data for production of OPC 53 Grade (Case study 4)
-A,A18,4.0,382,Table A18: Input data for production of PPC (Case study 4)
-A,A19,4.0,399,Table A19: Characterization factors used for the input materials in the Case study 4
-A,A20,5.0,427,Table A20: Input data used for (1 tonne) OPC production in Case study 5
-A,A21,5.0,438,Table A21: Input data used for (1 tonne) PPC production in Case Study 5
-A,A22,5.0,450,Table A22: Characterization factors used for HFO used in electricity production (Case study 5)
-A,A23,5.0,455,Table A23: Characterization factors used in the Case study 5
-A,A24,6.0,467,Table A24: Inventory for 1 tonne of GGBS production (Case study 6)
-A,A25,6.0,478,Table A25: Input data for production of PSC (Case study 6)
-A,A26,6.0,492,Table A26: Characterization factors used in the Case study 6
-B,B1,,2,Table B1: Data and Impacts related to Mettur Thermal Power Plant
-B,B2,,41,Table B2: Data and Impacts related to Nimbol Thermal Power Plant
-B,B3,,84,Table B3: Data and Impacts related to Nimbahera Thermal Power Plant
-B,B4,,132,Table B4: Data and Impacts related to Nimbol Thermal Power Plant
-B,B5,,207,"Table B5: Impact assessment results for electricity produced in CPPs, Mettur TPP and the grid"
-C,C1,1.0,4,Table C1: Total energy consumed per tonne of clinker for the systems considered (Case Study 1)
-C,C2,1.0,31,Table C2: Total CO2 emissions calculated per tonne of clinker for all the system boundaries considered (Case study 1)
-C,C3,1.0,58,Table C3: Impact assessment results of OPC (per tonne) (Case study 1)
-C,C4,1.0,67,Table C4: Impact assessment results of GGBS (per tonne) (Case study 1)
-C,C5,1.0,75,Table C5: Impact assessment results of PSC (per tonne) (Case study 1)
-C,C6,2.0,85,Table C6: Total energy consumed per tonne of clinker for all the systems considered (Case study 2)
-C,C7,2.0,120,Table C7: Total CO2 emissions per tonne of clinker for all the systems considered (Case study 2)
-C,C8,2.0,154,Table C8: Impact assessment results per tonne of OPC (53 grade) (Case study 2)
-C,C9,2.0,163,Table C9: Impact assessment results per tonne of OPC (43 grade) (Case study 2)
-C,C10,2.0,172,Table C10: Impact assessment results per tonne of PPC (Case study 2)
-C,C11,3.0,183,Table C11: Total energy consumed for clinker production in the systems considered (Case study 3)
-C,C12,3.0,219,Table C12: Total CO2 emissions for clinker in the systems considered (Case study 3)
-C,C13,3.0,255,Table C13: Impact assessment results for OPC per tonne (Case study 3)
-C,C14,3.0,265,Table C14: Impact assessment results for PPC (Case study 3)
-C,C15,4.0,276,Table C15: Total energy consumed per tonne of clinker for all systems considered (Case study 4)
-C,C16,4.0,302,Table C16: Total CO2 emissions per tonne of clinker for all systems considered (Case study 4)
-C,C17,4.0,326,Table C17: Impact assessment results per tonne of OPC (Case study 4)
-C,C18,4.0,336,Table C18: Impact assessment results per tonne of PPC (Case study 4)
-C,C19,6.0,348,Table C19: Impact assessment results for the grinding of 1 tonne of OPC (Case study 6)
-C,C20,6.0,353,Table C20: Impact assessment results for the grinding of 1 tonne of PPC (Case study 6)
-C,C21,5.0,360,Table C21: Impact assessment for tonne of GGBS (Case study 5)
-C,C22,5.0,370,Table C22: Impact assessment results per tonne of PSC (Case study 5)
-C,C23,5.0,382,Table C23: Impacts associated with grinding of clinker in two plants
-C,C24,5.0,390,Table C24: Impacts associated with the production of GGBS
+sheet,table_id,case_study,start_row,end_row,title
+A,A1,1.0,4,28,Table A1: Input data compiled for clinker in Case Study 1
+A,A2,1.0,29,42,Table A2: Input data related to the production of 1 tonne of OPC
+A,A3,1.0,43,51,Table A3: Input data related to the production of 1 tonne of GGBS
+A,A4,1.0,52,60,Table A4: Input data related to the production of 1 tonne of PSC
+A,A5,1.0,61,93,Table A5: Characterization factors for clinker production (Case study 1)
+A,A6,2.0,94,109,Table A6: Input data used for LCA of clinker (Case study 2)
+A,A7,2.0,110,133,Table A7: Fuels used in the production of clinker.
+A,A8,2.0,134,148,Table A8: Input data for production of OPC (Case study 2)
+A,A9,2.0,149,163,Table A9: Input data for production of PPC (Case study 2)
+A,A10,2.0,164,212,Table A10: Characterization factors used in the Case study 2
+A,A11,3.0,213,228,Table A11: Input data compiled for LCA of clinker (Case study 3)
+A,A12,3.0,229,259,Table A12: Fuels used in the production of clinker (Case study 3)
+A,A13,3.0,260,274,Table A13: Input data for production of OPC 53 grade (Case study 3)
+A,A14,3.0,275,292,Table A14: Input data for production of PPC (Case study 3)
+A,A15,3.0,293,343,Table A15: Characterization factors used in Case study 3
+A,A16,4.0,344,365,Table A16: Input data used for LCA of clinker (Case study 4)
+A,A17,4.0,366,381,Table A17: Input data for production of OPC 53 Grade (Case study 4)
+A,A18,4.0,382,398,Table A18: Input data for production of PPC (Case study 4)
+A,A19,4.0,399,426,Table A19: Characterization factors used for the input materials in the Case study 4
+A,A20,5.0,427,437,Table A20: Input data used for (1 tonne) OPC production in Case study 5
+A,A21,5.0,438,449,Table A21: Input data used for (1 tonne) PPC production in Case Study 5
+A,A22,5.0,450,454,Table A22: Characterization factors used for HFO used in electricity production (Case study 5)
+A,A23,5.0,455,466,Table A23: Characterization factors used in the Case study 5
+A,A24,6.0,467,477,Table A24: Inventory for 1 tonne of GGBS production (Case study 6)
+A,A25,6.0,478,491,Table A25: Input data for production of PSC (Case study 6)
+A,A26,6.0,492,510,Table A26: Characterization factors used in the Case study 6
+B,B1,,2,40,Table B1: Data and Impacts related to Mettur Thermal Power Plant
+B,B2,,41,83,Table B2: Data and Impacts related to Nimbol Thermal Power Plant
+B,B3,,84,131,Table B3: Data and Impacts related to Nimbahera Thermal Power Plant
+B,B4,,132,206,Table B4: Data and Impacts related to Nimbol Thermal Power Plant
+B,B5,,207,217,"Table B5: Impact assessment results for electricity produced in CPPs, Mettur TPP and the grid"
+C,C1,1.0,4,30,Table C1: Total energy consumed per tonne of clinker for the systems considered (Case Study 1)
+C,C2,1.0,31,57,Table C2: Total CO2 emissions calculated per tonne of clinker for all the system boundaries considered (Case study 1)
+C,C3,1.0,58,66,Table C3: Impact assessment results of OPC (per tonne) (Case study 1)
+C,C4,1.0,67,74,Table C4: Impact assessment results of GGBS (per tonne) (Case study 1)
+C,C5,1.0,75,84,Table C5: Impact assessment results of PSC (per tonne) (Case study 1)
+C,C6,2.0,85,119,Table C6: Total energy consumed per tonne of clinker for all the systems considered (Case study 2)
+C,C7,2.0,120,153,Table C7: Total CO2 emissions per tonne of clinker for all the systems considered (Case study 2)
+C,C8,2.0,154,162,Table C8: Impact assessment results per tonne of OPC (53 grade) (Case study 2)
+C,C9,2.0,163,171,Table C9: Impact assessment results per tonne of OPC (43 grade) (Case study 2)
+C,C10,2.0,172,182,Table C10: Impact assessment results per tonne of PPC (Case study 2)
+C,C11,3.0,183,218,Table C11: Total energy consumed for clinker production in the systems considered (Case study 3)
+C,C12,3.0,219,254,Table C12: Total CO2 emissions for clinker in the systems considered (Case study 3)
+C,C13,3.0,255,264,Table C13: Impact assessment results for OPC per tonne (Case study 3)
+C,C14,3.0,265,275,Table C14: Impact assessment results for PPC (Case study 3)
+C,C15,4.0,276,301,Table C15: Total energy consumed per tonne of clinker for all systems considered (Case study 4)
+C,C16,4.0,302,325,Table C16: Total CO2 emissions per tonne of clinker for all systems considered (Case study 4)
+C,C17,4.0,326,335,Table C17: Impact assessment results per tonne of OPC (Case study 4)
+C,C18,4.0,336,347,Table C18: Impact assessment results per tonne of PPC (Case study 4)
+C,C19,6.0,348,352,Table C19: Impact assessment results for the grinding of 1 tonne of OPC (Case study 6)
+C,C20,6.0,353,359,Table C20: Impact assessment results for the grinding of 1 tonne of PPC (Case study 6)
+C,C21,5.0,360,369,Table C21: Impact assessment for tonne of GGBS (Case study 5)
+C,C22,5.0,370,381,Table C22: Impact assessment results per tonne of PSC (Case study 5)
+C,C23,5.0,382,389,Table C23: Impacts associated with grinding of clinker in two plants
+C,C24,5.0,390,399,Table C24: Impacts associated with the production of GGBS

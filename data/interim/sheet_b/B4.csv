@@ -1,0 +1,76 @@
+0,1,2,3,4,5,6
+,Table B4: Data and Impacts related to Nimbol Thermal Power Plant,,,,,
+,Mangrol CPP (2017-18) -22MW capacity,,,,,
+,Gross Average Power Generation ,,,17.12,MW,
+,Energy generated per year (units),,,171463134,kWh,
+,Power taken from grid ,,,32992.6,kWh,
+,Fuel used ,Fuels/year,,Fraction of fuel used in the blend ,Fuels (%),Fuel used (kg/kWh)
+,Carbonaceous coal ,37,tonnes,0.0004,0.04,0.0002
+,SA coal,58930,tonnes,0.5915,59.15,0.3437
+,Coal dust,3715,tonnes,0.0373,3.73,0.0217
+,US coal ,25281,tonnes,0.2537,25.37,0.1474
+,Coal C GR 350003,11660,tonnes,0.117,11.7,0.068
+,Agro waste,9,tonnes,0.0001,0.01,0.0001
+,Total Fuel  ,99632,tonnes ,Total fuel,,0.5811
+,Direct Emissions and Embodied Energy (per kWh),,,,,
+,Fuel used ,Fuels/kWh,kgCO2/kg,MJ/kg,kgCO2/kWh,MJ/kWh
+,Carbonaceous Ccoal ,0,1.731,15.19,0.0004,0.0033
+,S.A. Coal,0.344,2.298,20.89,0.7898,7.1797
+,Coal Dust,0.022,1.731,15.85,0.0375,0.3434
+,U.S. Coal ,0.147,2.791,28.23,0.4115,4.1623
+,Coal C GR 350003,0.068,1.731,18.4,0.1177,1.2513
+,Agro Waste,0,,,,
+, Total ,,,,1.357,12.94
+,Extraction of fuels (per kWh) ,,,,,
+,Fuel used ,Fuels/kWh,kgCO2/kg,MJ/kg,kgCO2/kWh,MJ/kWh
+,Carbonaceous Coal ,0.0002,0.55,8.58,0.0001,0.0019
+,S.A. Coal,0.3437,0.55,8.58,0.189,2.9489
+,Coal Dust,0.0217,0,0,0,0
+,U.S. Coal ,0.1474,0.55,8.58,0.0811,1.2651
+,Coal C GR 350003,0.068,0.55,8.58,0.0374,0.5835
+,Agro Waste,0.0001,0,0,,
+,Total ,,,,0.3076,4.799
+,Transportation (Ground-to-Gate),,,,,
+,Fuel used ,t-km,kgCO2/t-km,MJ/t-km,kgCO2/kWh,MJ/kWh
+,"Carbonaceous Coal (From Odisha by Truck, 1400 kms)",0.0003,0.0920$,1.6900$,0,0.0006
+,"S.A. coal (by truck, 650 kms)",0.223,0.0920$,1.6900$,0.0205,0.3768
+,"SA coal (by ship, 8031 kms)",2.75,0.0192$,0.0113$,0.0528,0.0311
+,"Coal dust (by truck,1400 kms ",0.03,0.0920$,1.6900$,0.0028,0.0507
+,"U.S. coal (by ship, 22000 kms)",3.234,0.0192$,0.0113$,0.0621,0.0365
+,"U.S. coal (by Truck, 650 kms)",0.0958,0.0920$,1.6900$,0.0088,0.1619
+,"Coal C GR 350003 (by Truck, 1400 kms)",0.0952,0.0920$,1.6900$,0.0088,0.1609
+,Total ,,,,0.156,0.818
+,Transportation (Gate-to-Gate),,,,,
+,,t-km,kgCO2/t-km,MJ/t-km,kgCO2/kWh,MJ/kWh
+,Coal (by Truck),0.4443,0.0385,0.5195,0.01710478,0.23080346
+,In-house generation ,,,Ground-to-Gate ,1.82,18.56
+,,,,Gate-to-Gate ,1.37,13.17
+,,,,,,
+,,,,,,
+,,Data from captive power plant ,,,,
+,,Data from cement plant,,,,
+,,Calculated,,,,
+,,ecoinvent,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,"Figure B1 Comparison of the amount of coal used in the CPPs with that of TPP, Mettur (Data given in the previous tables)",,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,Comparison of the Impacts of Electricity Generated in the CPPs with that Transmitted Through the Grid,,,,,

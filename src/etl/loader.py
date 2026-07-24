@@ -7,7 +7,7 @@ Loads the cement plant Excel workbook.
 from pathlib import Path
 import pandas as pd
 
-from config import WORKBOOK_PATH
+from src.config import WORKBOOK_PATH
 
 
 class WorkbookLoader:

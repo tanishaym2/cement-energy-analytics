@@ -1,0 +1,86 @@
+plant,process,ground_to_gate_MJ,gate_to_gate_MJ,CSI_MJ
+Nandyal,Limestone extraction,47.3,47.3,
+Nandyal,Coal (U.S),1239.0,964.0,964.0
+Nandyal,Pet Coke,2604.0,2059.0,2059.0
+Nandyal,Pharmaceutical solid waste,37.68,37.68,37.68
+Nandyal,Carbon black,75.36,75.36,75.36
+Nandyal,Pharmaceutical liquid waste,25.12,25.12,25.12
+Nandyal,Truck,147.0,60.5,
+Nandyal,Ship,14.8,,
+Nandyal,Train,25.4,,
+Nandyal,Cement factory,4.6,,
+Nandyal,"Refractory, packed, high aluminium oxide",1.5,,
+Nandyal,"Refractory, packed, basic",3.17,,
+Nandyal,"Refractory, packed, fireclay",1.16,,
+Nandyal,Steel,4.55,,
+Nandyal,Industrial machine,1.2,,
+Nandyal,Lubricating oil,4.15,,
+Nandyal,Tap water,3.37,,
+Nandyal,Total (MJ/tonne),5260.0,3730.0,3160.0
+Nimbahera,Limestone,46.2,46.2,
+Nimbahera,SA Coal,436.0,319.62,319.62
+Nimbahera,Pet coke,3263.0,2571.0,2571.0
+Nimbahera,Imported Pet coke,590.0,465.22,465.22
+Nimbahera,Indian Coal,42.9,26.1,26.1
+Nimbahera,Indian Coal (IBT),82.47,58.3,58.3
+Nimbahera,Lignite Coal,44.36,43.44,43.44
+Nimbahera,Pet coke sweeps,3.3,3.3,3.3
+Nimbahera,US coal,63.61,49.4,49.4
+Nimbahera,Waste Mix Solid,0.98,0.98,0.98
+Nimbahera,Agro waste,19.15,19.15,19.15
+Nimbahera,RDF and RDF-II,51.52,51.52,51.52
+Nimbahera,Plastic waste,0.84,0.84,0.84
+Nimbahera,By Truck,180.0,44.2,
+Nimbahera,By Ship,4.32,,
+Nimbahera,Cement factory,4.6,,
+Nimbahera,"Refractory, packed, high aluminium oxide",1.5,,
+Nimbahera,"Refractory, packed, basic",3.17,,
+Nimbahera,"Refractory, packed, fireclay",1.16,,
+Nimbahera,Steel,4.55,,
+Nimbahera,Industrial machine,1.2,,
+Nimbahera,Lubricating oil,4.15,,
+Nimbahera,Tap water,3.37,,
+Nimbahera,Total (MJ),6120.0,4535.0,3610.0
+Mangrol,Limestone,45.2,45.2,
+Mangrol,S. A. Coal,281.0,203.8,203.8
+Mangrol,Pet coke,2277.0,1797.0,1797.0
+Mangrol,Imported Pet coke,817.0,644.0,644.0
+Mangrol,Indian Coal,117.25,87.7,87.7
+Mangrol,Lignite Coal,63.9,62.7,62.7
+Mangrol,Pet coke with high Sulphur,336.0,265.0,265.0
+Mangrol,Pet coke sweeps,62.8,62.8,62.8
+Mangrol,Waste Mix Solid/Liquid,144.6,144.6,144.6
+Mangrol,Agrowaste,26.0,26.0,26.0
+Mangrol,RDF and RDF-II,15.05,15.05,15.05
+Mangrol,Plastic and resin waste,3.9,3.9,3.9
+Mangrol,Plastic waste,3.3,3.3,5.6
+Mangrol,Contaminated plastic waste,4.9,4.9,4.9
+Mangrol,Tyre fibre mass,3.8,3.8,3.8
+Mangrol,Shredded tyre chips,1.1,1.1,1.1
+Mangrol,By truck,180.0,36.2,
+Mangrol,By ship,4.62,,
+Mangrol,Cement factory,4.6,,
+Mangrol,"Refractory, packed, high aluminium oxide",1.5,,
+Mangrol,"Refractory, packed, basic",3.17,,
+Mangrol,"Refractory, packed, fireclay",1.16,,
+Mangrol,Steel,4.55,,
+Mangrol,Industrial machine,1.2,,
+Mangrol,Lubricating oil,4.15,,
+Mangrol,Tap water,3.37,,
+Mangrol,Total,5300.0,4025.0,3330.0
+Nimbol,Limestone,43.4,43.4,
+Nimbol,China Clay,5.65,,
+Nimbol,Coal (USA),125.4,101.4,101.4
+Nimbol,Pet coke,3943.0,3098.0,3098.0
+Nimbol,Truck,62.0,19.1,
+Nimbol,Ship,22.6,,
+Nimbol,Train,53.5,,
+Nimbol,Cement factory,4.6,,
+Nimbol,"Refractory, packed, high aluminium oxide",1.5,,
+Nimbol,"Refractory, packed, basic",3.17,,
+Nimbol,"Refractory, packed, fireclay",1.16,,
+Nimbol,Steel,4.55,,
+Nimbol,Industrial machine,1.2,,
+Nimbol,Lubricating oil,4.15,,
+Nimbol,Tap water,3.37,,
+Nimbol,Total,5240.0,3930.0,3200.0

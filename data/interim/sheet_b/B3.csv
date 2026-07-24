@@ -1,0 +1,49 @@
+0,1,2,3,4,5,6
+,Table B3: Data and Impacts related to Nimbahera Thermal Power Plant,,,,,
+,Nimbahera CPP (2017-18) Power Plant - 22MW capacity,,,,,
+,Gross average power generation ,,,17.12,MW,
+,Energy generated per year (units),,,136258459,kWh,
+, Power taken from grid ,,,32992,kWh,
+,Fuel used ,Fuel consumption/year ,,Fuels used,,
+,,,,Fraction,(%),(kg /kWh)
+,Indian Coal ,46474,tonnes,0.385,38.46,0.341
+,SA coal,10051,,0.083,8.32,0.074
+,Indonesian Coal ,45386,,0.376,37.56,0.333
+,US coal ,18922,,0.157,15.66,0.139
+,Total Fuel,120833,,,Total fuel ,0.887
+,Direct Emissions and Embodied Energy (per kWh),,,,,
+,Fuel used ,kg/kWh,kgCO2/kg,MJ/kg,kgCO2/kWh,MJ/kWh
+,Indian Coal ,0.341,1.731,14.44,0.59,4.925
+,SA coal,0.074,2.298,20.41,0.17,1.506
+,Indonesian Coal ,0.333,1.59,14.29,0.53,4.76
+,US coal ,0.139,2.791,25.45,0.388,3.534
+,Total ,,,,1.68,14.72
+,Extraction of fuels (per kWh) ,,,,,
+,Fuel used ,kg/kWh,kgCO2/kg,MJ/kg,kgCO2/kWh,MJ/kWh
+,Indian Coal ,0.341,0.55$,8.58$,0.188,2.93
+,SA coal,0.074,0.55$,8.58$,0.041,0.63
+,Indonesian Coal ,0.333,0.55$,8.58$,0.183,2.86
+,US coal ,0.139,0.55$,8.58$,0.076,1.19
+,Total ,,,,0.4877,7.609
+,Transportation (Ground-to-Gate),,,,,
+,Fuel used ,t-km/kWh,kgCO2/t-km,MJ/t-km,kgCO2/kWh,MJ/kWh
+,Indian coal (From Odissa in truck) (1400kms),0.478,0.092$,1.690$,0.044,0.807
+,SA coal (From East Ondon by ship) (8700 kms),0.642,0.019$,0.011$,0.012,0.007
+,SA coal (Truck) (650 kms),0.048,0.092$,1.690$,0.004,0.081
+,Indonesian coal (Truck) (650 kms),0.217,0.092$,1.690$,0.02,0.366
+,"Indonesian coal  (Indonesian Coal (Ambon, Indonesia to Kandla (4400 Nautical miles) (8150kms)",2.715,0.019$,0.011$,0.052,0.031
+,US coal (From (New orleans to Kandla by Ship) (11900 Nautical miles) (22000 kms),3.055,0.019$,0.011$,0.059,0.035
+,US coal (From Kandla port to plant by Truck) (560 kms),0.078,0.092$,1.690$,0.007,0.131
+,Total ,,,,0.199,1.458
+,Transportation (Gate-to-Gate),,,,,
+,,kWh/kWh,kgCO2/t-km,MJ/t-km,kgCO2/kWh,MJ/kWh
+,Coal (Truck),0.742,0.0385,0.5195,0.0286,0.3854
+,In-house generation ,,,Ground-to-Gate,2.36,22.33
+,,,,Gate-to-Gate  ,1.71,15.11
+,,,,,,
+,,Data from captive power plant ,,,,
+,,Data from cement plant,,,,
+,,Calculated,,,,
+,$,ecoinvent,,,,
+,,,,,,
+,,,,,,
