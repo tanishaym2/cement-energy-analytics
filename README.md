@@ -270,18 +270,5 @@ The project is based on industrial cement production and Life Cycle Inventory (L
 
 ---
 
-# 👩‍💻 Developed By
-
-**Bhakti Bhosle**
-
-B.Tech Computer Science (AI & ML)
-
-Manipal University Jaipur
-
-GitHub: https://github.com/bhakti263
-
-LinkedIn: *(Add your LinkedIn profile here)*
-
----
 
 ## ⭐ If you found this project useful, consider giving it a star.
