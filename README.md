@@ -269,6 +269,3 @@ dashboard/images/dashboard.png
 The project is based on industrial cement production and Life Cycle Inventory (LCI) datasets used for production, energy, transportation, and sustainability analysis.
 
 ---
-
-
-## ⭐ If you found this project useful, consider giving it a star.
